@@ -1,0 +1,86 @@
+{
+  "generated": "2026-08-07",
+  "purpose": "Nominative fair-use client trust badges for GS Industrial 'Confían en nosotros' section. Logos are unmodified in color; only trimmed of surrounding whitespace/padding and resized (no recoloring).",
+  "logos": [
+    {
+      "company": "Techint",
+      "filename": "brand-techint.png",
+      "dimensions": "447x600",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Techint_Logo.svg",
+      "original_format": "SVG (rasterized to PNG at up to 600px, transparent background)",
+      "license_note": "Wikimedia Commons; simple/basic geometric shapes and text (below threshold of originality) but the Techint wordmark and pictogram may be a protected trademark in some jurisdictions. Used here nominatively to represent a real client relationship, not as a claim of affiliation."
+    },
+    {
+      "company": "Aysa (Agua y Saneamientos Argentinos)",
+      "filename": "brand-aysa.png",
+      "dimensions": "592x600",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aysa_logo.svg",
+      "original_format": "SVG (rasterized to PNG, transparent background)",
+      "license_note": "Wikimedia Commons, categorized as logo of a state-owned Argentine company. Trademark rights may apply; used nominatively."
+    },
+    {
+      "company": "Trenes Argentinos",
+      "filename": "brand-trenes-argentinos.png",
+      "dimensions": "600x141",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Trenes_Argentinos.svg",
+      "original_format": "SVG (rasterized to PNG, transparent background)",
+      "license_note": "Wikimedia Commons, current unified brand wordmark for the Argentine state railway group. Trademark rights may apply; used nominatively."
+    },
+    {
+      "company": "Edenor",
+      "filename": "brand-edenor.png",
+      "dimensions": "600x171",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Edenor-Logo.svg",
+      "original_format": "SVG (rasterized to PNG, transparent background)",
+      "license_note": "Wikimedia Commons, sourced originally from edenor.com; current logo confirmed via English Wikipedia infobox. Trademark rights may apply; used nominatively."
+    },
+    {
+      "company": "Reconstrucción Caños (S.A.)",
+      "filename": "brand-reconstruccion-canos.png",
+      "dimensions": "290x55",
+      "source_url": "https://reconstruccion.com.ar/assets/images/logo/logo-dark.png",
+      "original_format": "PNG, native resolution kept (not upscaled), transparent background",
+      "license_note": "Downloaded directly from the company's own official domain (reconstruccion.com.ar). Note: this is their public-facing commercial brand 'Forever Pipe' (Reconstrucción Caños S.A. trades under this name for pipe rehabilitation services) -- no separate 'Reconstrucción Caños' wordmark logo was found on their site; this is the only official logo asset available. Resolution is modest (native site asset); consider a text-based fallback if a larger badge size is needed."
+    },
+    {
+      "company": "Chediack",
+      "filename": "brand-chediack.png",
+      "dimensions": "600x373",
+      "source_url": "https://www.chediack.com.ar/wp-content/uploads/2025/01/Chediack-Original-Iso-version-color-RGB.png",
+      "original_format": "PNG, transparent background",
+      "license_note": "Downloaded directly from the company's own official domain (chediack.com.ar). Note: this is the color ISOTIPO (symbol only, red/gray interlocking arrows) -- the site's only full isologotipo (symbol + 'CHEDIACK' wordmark) asset is white-on-transparent and would be invisible on a white card, so it was not used. If the wordmark is needed, consider a text-based fallback reading 'CHEDIACK' next to this symbol."
+    },
+    {
+      "company": "Benito Roggio (Benito Roggio e Hijos S.A.)",
+      "filename": "brand-benito-roggio.png",
+      "dimensions": "309x71",
+      "source_url": "https://www.broggio.com.ar/wp-content/uploads/2018/09/logo.png",
+      "original_format": "PNG, native resolution kept (not upscaled), transparent background",
+      "license_note": "Downloaded directly from the company's own official domain (broggio.com.ar, Benito Roggio e Hijos S.A.). Red rectangle with white 'ROGGIO' wordmark is the company's actual official logo design (background color is part of the logo itself, not added). Resolution is modest (native site asset)."
+    },
+    {
+      "company": "Aerolíneas Argentinas",
+      "filename": "brand-aerolineas-argentinas.png",
+      "dimensions": "600x212",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Logo_wordmark_Aerol%C3%ADneas_Argentinas_(2010).svg",
+      "original_format": "SVG (rasterized to PNG, transparent background)",
+      "license_note": "Wikimedia Commons; current cursive wordmark logo (used since the 2010 rebrand, confirmed via English Wikipedia infobox reference). Trademark rights may apply; used nominatively."
+    },
+    {
+      "company": "YPF",
+      "filename": "brand-ypf.png",
+      "dimensions": "600x151",
+      "source_url": "https://commons.wikimedia.org/wiki/File:YPF_S.A._logo.svg",
+      "original_format": "SVG (rasterized to PNG, transparent background)",
+      "license_note": "Wikimedia Commons; current blue bold 'YPF' wordmark, confirmed as current branding via web search and matches the file used in the English Wikipedia infobox. Trademark rights may apply; used nominatively."
+    },
+    {
+      "company": "River Plate (Club Atlético River Plate)",
+      "filename": "brand-river-plate.png",
+      "dimensions": "484x600",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Escudo_del_C_A_River_Plate.svg",
+      "original_format": "SVG (rasterized to PNG, transparent background)",
+      "license_note": "Wikimedia Commons; current club crest (white shield, red diagonal band, black 'CARP' monogram), confirmed via English Wikipedia infobox reference. Club crest/trademark rights apply; used nominatively to represent a real sponsorship/client relationship."
+    }
+  ]
+}

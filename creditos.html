@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Créditos fotográficos · GS Industrial</title>
+<meta name="description" content="Créditos y licencias de las imágenes utilizadas en el sitio de GS Industrial.">
+<link rel="icon" href="assets/img/favicon.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css?v=20260807e">
+<style>
+  .credits-main { padding-block: calc(var(--nav-h) + 3rem) 5rem; }
+  .credits-main .container { max-width: 720px; }
+  .credits-list { display: flex; flex-direction: column; gap: 1rem; margin-top: 2rem; }
+  .credits-list li { padding: 1rem 1.2rem; border: 1px solid var(--line); border-radius: var(--radius-sm); font-size: .95rem; color: var(--ink-mute); }
+  .credits-list a { color: var(--blue-mid); }
+  .back-link { display: inline-flex; align-items: center; gap: .4rem; font-family: var(--display); font-weight: 600; color: var(--blue-mid); margin-bottom: 1.5rem; }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
+<header class="nav is-scrolled" data-nav>
+  <div class="container">
+    <a class="nav-logo" href="index.html" aria-label="GS Industrial — Inicio">
+      <img class="logo-dark" src="assets/img/logo-gs-color-horizontal.webp" alt="GS Industrial">
+    </a>
+  </div>
+</header>
+<main id="main" class="credits-main">
+  <div class="container">
+    <a class="back-link" href="index.html#inicio">← Volver al inicio</a>
+    <h1>Créditos fotográficos</h1>
+    <p>La imagen de fondo utilizada en la portada proviene de <a href="https://openverse.org" target="_blank" rel="noopener">Openverse</a>, bajo licencias Creative Commons o de dominio público.</p>
+    <ul class="credits-list" data-credits></ul>
+  </div>
+</main>
+<script defer src="lib/credits-render.js?v=20260807e"></script>
+</body>
+</html>
